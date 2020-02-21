@@ -1,0 +1,36 @@
+---
+title: 테스트1
+author: Seong Choi
+date: '2020-02-14'
+categories:
+  - test
+tags:
+  - R Markdown
+  - test
+slug: test1slug
+subtitle: 포스트테스트001
+summary: 뭐라 말해야할지 애매한 경우에는...
+authors:
+  - S Choi
+lastmod: '2020-02-14T21:24:29+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects:
+  - 포스트테스트
+---
+
+# 이렇게 시작해보는 거다.
+
+사람들은 언제나 시작이라는 것을 하게 된다.
+
+조금씩 앞으로...
+
+
+# 계속 진행하는 거다.
+
+조금씩 나아가는 거다.. 한걸음씩...
+
+그러나 천천히...

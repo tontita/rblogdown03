@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>최성규 | blogdown 테스트</title>
+    <link>/authors/%EC%B5%9C%EC%84%B1%EA%B7%9C/</link>
+      <atom:link href="/authors/%EC%B5%9C%EC%84%B1%EA%B7%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>최성규</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Seong Choi 2020</copyright><lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>최성규</title>
+      <link>/authors/%EC%B5%9C%EC%84%B1%EA%B7%9C/</link>
+    </image>
+    
+    <item>
+      <title>테스트1</title>
+      <link>/post/test1slug/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/test1slug/</guid>
+      <description>
+
+
+&lt;div id=&#34;이렇게-시작해보는-거다.&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;이렇게 시작해보는 거다.&lt;/h1&gt;
+&lt;p&gt;사람들은 언제나 시작이라는 것을 하게 된다.&lt;/p&gt;
+&lt;p&gt;조금씩 앞으로…&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;계속-진행하는-거다.&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;계속 진행하는 거다.&lt;/h1&gt;
+&lt;p&gt;조금씩 나아가는 거다.. 한걸음씩…&lt;/p&gt;
+&lt;p&gt;그러나 천천히…&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

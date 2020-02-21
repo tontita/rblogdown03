@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beginner | blogdown 테스트</title>
+    <link>/tags/beginner/</link>
+      <atom:link href="/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <description>beginner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko</language><copyright>©Seong Choi 2020</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>beginner</title>
+      <link>/tags/beginner/</link>
+    </image>
+    
+    <item>
+      <title>밀크티</title>
+      <link>/post/2020-02-15-/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-02-15-/</guid>
+      <description>
+
+
+&lt;div id=&#34;가격&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;가격&lt;/h1&gt;
+&lt;p&gt;프로 크리에이트의 가격은 만 이천원 난 가지고 있는 돈은 문화상품권으로 오천원&lt;/p&gt;
+&lt;p&gt;과연 프로 크리에이트와 포켓 크리에이트의 차이는 무엇일까..플리즈 탤 미 더 안써&lt;/p&gt;
+&lt;div id=&#34;굿-점&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;굿 점&lt;/h2&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;많은 브러쉬&lt;/li&gt;
+&lt;li&gt;완벽한 프로 기술 같은 것들&lt;/li&gt;
+&lt;li&gt;비싸지만 그만큼 좋은 앱&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div id=&#34;배드-점&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;배드 점&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;너무 비싼 가격 *(만 이천원 ㅠㅠ)&lt;/li&gt;
+&lt;li&gt;많은 기술이 있는 만큼 복잡한 사용방법&lt;/li&gt;
+&lt;li&gt;아이 돈트 노우 너무 좋음ㅋㅋㅋ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;section&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
