@@ -50,13 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+아케데믹 템플릿을 이용하여 사이트 제작. 다른 템플릿들은 아래 링크에서 확인가능:
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+- [**프로젝트 데모** (아케데믹 오리지널 사이트)](https://sourcethemes.com/academic/)
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+**아카데믹 데모 템플릿을 이용한 10만개가 넘는 [다양한 웹사이트](https://sourcethemes.com/academic/#expo) 가 이미 운영중**
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+**가장 강력한 정적인 웹 사이트 생성틀인 휴고 커뮤니티에 [참여](https://sourcethemes.com/academic/docs/install/)**
 
 {{% alert note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
