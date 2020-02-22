@@ -16,9 +16,9 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 인공지능
+- 컴퓨터 언어학
+- 정보 추출
 name: Nelson Bighetti
 organizations:
 - name: Stanford University
